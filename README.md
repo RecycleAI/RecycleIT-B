@@ -1,1 +1,3 @@
 # RecycleIT-B
+
+## About project
