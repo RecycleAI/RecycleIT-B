@@ -4,3 +4,4 @@
 
 ## List of contributors
 - Ali Shakeri
+- Zohreh Rezaei
