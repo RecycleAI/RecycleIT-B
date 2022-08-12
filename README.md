@@ -1,4 +1,4 @@
-# RecycleIT-B
+#RecycleIT-B
 
 ## About project
 
@@ -7,4 +7,5 @@
 - Zohreh Rezaei
 - Sadegh Khosravi
 - Hamed Javidpoor
--zahra farhadinia
+-zahra farhadini
+- Moein Zolfaghari
