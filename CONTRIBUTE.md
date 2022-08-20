@@ -88,4 +88,11 @@ git push
 ```
 
 ### 2.2 Do your changes and create a pull request
-Repeat the steps 1.3, 1.4, and 1.5 from the previous section.
+Do not forget to switch to your desired branch before doing any modifications:
+
+```
+git checkout howto-contribute
+git pull
+```
+
+Then, repeat the steps 1.3, 1.4, and 1.5 from the previous section.
