@@ -12,3 +12,4 @@ read the CONTRIBUTE.md.
 - Hamed Javidpoor
 - Zahra farhadini
 - Moein Zolfaghari
+- Mina hajirezaei
